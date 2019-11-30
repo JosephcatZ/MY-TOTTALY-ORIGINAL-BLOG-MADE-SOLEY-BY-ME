@@ -2,7 +2,7 @@ from eztk import *
 
 app = Window()
 app.set_size(600, 750)
-app.set_title("Lukes programming log submitter")
+app.set_title("JosephcatZ's programming log submitter")
 app.set_background(0, 0, 0)
 app.set_foreground(0, 255, 0)
 
